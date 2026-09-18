@@ -1,0 +1,6 @@
+{
+  "name": "AI Site Search Agent",
+  "description": "Multi-modal site search engine with AI reranking, domain-level crawling, operator delegation, and native search detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
